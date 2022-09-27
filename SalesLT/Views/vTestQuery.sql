@@ -1,7 +1,7 @@
 CREATE VIEW [SalesLT].[vTestQuery]
 WITH SCHEMABINDING
 AS
-SELECT top 10 AddressID
+SELECT top 12 AddressID
 FROM SalesLT.Address
 
 GO
