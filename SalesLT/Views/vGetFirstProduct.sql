@@ -1,5 +1,5 @@
 CREATE VIEW [SalesLT].[vGetFirstProduct]
--- test 
+-- test 2
 AS
 
 SELECT TOP 1 *
