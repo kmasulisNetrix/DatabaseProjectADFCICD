@@ -1,7 +1,8 @@
 CREATE VIEW [SalesLT].[vGetFirstProduct]
--- test MONDAY
+
 AS
 
+-- test MONDAY
 SELECT TOP 1 *
 FROM SalesLT.Product
 
